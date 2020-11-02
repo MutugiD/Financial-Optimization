@@ -1,3 +1,4 @@
-# Financial-Optimization
+# Financial-Optimization (MPT)
 Financial optimization using markowitz portfolio theory
-Add a few constraints 
+Added - ESG and Kelly Criterion optimization
+Dynanmic allocation optimization
